@@ -1,4 +1,4 @@
-# 🚕  Uber-Data-Analysis
+# 🚕  Uber Data Analysis
 
 ### 🛣️  Objective:
 To analyze and predict the 'Price' label using exploratory data analytics and various machine learning models, comparing their accuracy to identify the best performer.
