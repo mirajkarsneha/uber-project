@@ -26,7 +26,7 @@ We apply four different models on our remaining dataset among which Decision Tre
 - Modeling
 
 
-## Project Structure
+## 🚧 Project Structure
 This is a python machine learning has below mentioned files.
 - main.ipnyb - Which has all the logic written for the predicting price for different modles
 - README.md - Describes what the project is, how it is structured and which model are used.
